@@ -1,0 +1,18 @@
+* {
+    padding-top: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.card-img-top {
+    width: 100px;
+    height: 200px;
+}
+
+.card-text-left {
+    width: 300px;
+}
+
+.card-img-top {
+     text-align: center;  
+}

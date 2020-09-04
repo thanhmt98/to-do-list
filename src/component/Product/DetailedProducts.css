@@ -1,0 +1,13 @@
+* {
+    padding-top: 5px;
+}
+
+.product_image {
+    width: 100px;
+    height: 180px;
+    align-self: center;
+}
+
+.card {
+    width: 350px;
+}
